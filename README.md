@@ -34,9 +34,9 @@ Clone this repo, then copy or symlink the folder into your workspace `skills/` d
 ### Minimal install steps
 
 ```bash
-git clone https://github.com/wanXcode/gtd-skill.git
+git clone https://github.com/wanXcode/openclaw-personal-task-agent.git
 mkdir -p <openclaw-workspace>/skills/openclaw-personal-task-agent
-cp -R gtd-skill/* <openclaw-workspace>/skills/openclaw-personal-task-agent/
+cp -R openclaw-personal-task-agent/* <openclaw-workspace>/skills/openclaw-personal-task-agent/
 ```
 
 Then start a new OpenClaw session so the skill can be discovered.
