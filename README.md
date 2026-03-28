@@ -10,6 +10,7 @@ This skill helps an OpenClaw agent:
 - map live runtime files by symlink to avoid dual-source drift
 - scaffold a live agent shell with task-specific files
 - apply human-friendly task-list output rules
+- keep `next_action` and personal-owner tags like `ME` logically separate
 
 ## Skill contents
 

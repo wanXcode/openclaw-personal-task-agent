@@ -21,6 +21,8 @@ Use these snippets as starting points when creating a personal task-management c
 - 任务分类（category）和时间桶（bucket）是两套维度，禁止混说
 - 用户问“全部清单”时优先按分类展示
 - 用户问“今天/明天/未来”时按时间桶展示
+- `ME` 标签只在用户明确表达“我来处理 / 我自己做 / #ME”时才添加
+- `next_action` 分类不等于默认打 `ME` 标签
 ```
 
 ## Example `OPERATING-GUIDE.md`
