@@ -1,0 +1,10 @@
+# macOS / editor noise
+.DS_Store
+
+# temp / test output
+*.tmp
+*.bak
+
+# shell noise
+*.swp
+*.swo
