@@ -49,6 +49,16 @@ scripts/init_task_agent.sh <repo_root> <agent_name> [live_agents_root]
 scripts/init_task_agent.sh --force <repo_root> <agent_name> [live_agents_root]
 ```
 
+## Example prompts that should trigger the skill
+
+You can ask OpenClaw things like:
+
+- "Create a dedicated GTD child agent for me"
+- "Set up a personal task-management sub-agent in OpenClaw"
+- "Turn this task assistant setup into a reusable child agent"
+- "Standardize this reminders agent with repo-backed runtime files"
+- "Help me package a personal task agent as an installable OpenClaw skill"
+
 ## Notes
 
 - This repository is for GitHub distribution, not ClawHub publishing.
